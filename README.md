@@ -44,3 +44,6 @@ spec:
 
 <h6 style="text-align: center;">Image 5` (All pods are perfectly running)`</h6>
 ![k8s4.png](k8s4.png)
+
+<h6 style="text-align: center;">Image 5` (After running the load falling back to minimum replicas)`</h6>
+![k8s5.png](k8s5.png)
