@@ -2,15 +2,15 @@
 
 ## 1. Without any load.
 
-![k8s1.png](k8s1.png)
+<img alt="k8s1.png" src="k8s1.png"/>
 
 ## 2. Let's apply some load with JMeter.
 
 <h6 style="text-align: center;">Image 1` (setup number of request)`</h6>
-![jmeter1.png](jmeter1.png)
+<img alt="jmeter1.png" src="jmeter1.png"/>
 
 <h6 style="text-align: center;">Image 2` (provide the Http request)`</h6>
-![jmeter2.png](jmeter2.png)
+<img alt="jmeter2.png" src="jmeter2.png"/>
 
 ##  3. View the k8s pod changes when increasing the load.
 
