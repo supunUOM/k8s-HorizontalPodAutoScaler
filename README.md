@@ -36,14 +36,13 @@ spec:
 ```
 
 <h6 style="text-align: center;">Image 3` (1 running, other 2 containerCreating state)`</h6>
-![k8s2.png](k8s2.png)
-
+<img alt="k8s2.png" src="k8s2.png" title="title"/>
 
 <h6 style="text-align: center;">Image 4` (3 running, other 2 containerCreating state)`</h6>
-![k8s3.png](k8s3.png)
+<img alt="k8s3.png" src="k8s3.png"/>
 
 <h6 style="text-align: center;">Image 5` (All pods are perfectly running)`</h6>
-![k8s4.png](k8s4.png)
+<img alt="k8s4.png" src="k8s4.png"/>
 
 <h6 style="text-align: center;">Image 5` (After running the load falling back to minimum replicas)`</h6>
-![k8s5.png](k8s5.png)
+<img alt="k8s5.png" src="k8s5.png"/>
